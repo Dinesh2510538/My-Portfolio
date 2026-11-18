@@ -4,8 +4,8 @@ export const person = {
   role: "Associate Full Stack Developer",
   tagline: "Software engineer graduate, B.Tech Information Technology, 2026",
   email: "dineshkannaravi25@gmail.com",
-  github: "https://github.com/YOUR-USERNAME",      // TODO: replace
-  linkedin: "https://www.linkedin.com/in/YOUR-ID", // TODO: replace
+  github: "https://github.com/Dinesh2510538",      // TODO: replace
+  linkedin: "https://www.linkedin.com/in/dinesh-kanna-ravi-6a86a4258/", // TODO: replace
   resume: "/Dinesh_Kanna_Full_StackDeveloper.pdf", // put the PDF in /public
   headline:
     "I build React interfaces and the Spring Boot and FastAPI services behind them.",
