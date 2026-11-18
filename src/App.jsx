@@ -124,8 +124,8 @@ export default function App() {
           <h2>Contact</h2>
           <p className="lead">Hiring or building something? Send me a message.</p>
           <p className="mono sh"><span className="ps">$</span><a href={`mailto:${person.email}`}>mail {person.email}</a></p>
-          <p className="mono sh"><span className="ps">$</span><a href={person.github} target="_blank" rel="noreferrer">open github</a></p>
-          <p className="mono sh"><span className="ps">$</span><a href={person.linkedin} target="_blank" rel="noreferrer">open linkedin</a></p>
+          <p className="mono sh"><span className="ps">$</span><a href={person.github} target="_blank" rel="noreferrer">https://github.com/Dinesh2510538</a></p>
+          <p className="mono sh"><span className="ps">$</span><a href={person.linkedin} target="_blank" rel="noreferrer">https://www.linkedin.com/in/dinesh-kanna-ravi-6a86a4258/</a></p>
         </section>
       </main>
     </>
